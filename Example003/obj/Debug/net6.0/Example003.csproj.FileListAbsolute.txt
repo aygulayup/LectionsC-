@@ -1,0 +1,15 @@
+/Users/aigulaiupova/Desktop/Лекции С#/Example003/bin/Debug/net6.0/Example003
+/Users/aigulaiupova/Desktop/Лекции С#/Example003/bin/Debug/net6.0/Example003.deps.json
+/Users/aigulaiupova/Desktop/Лекции С#/Example003/bin/Debug/net6.0/Example003.runtimeconfig.json
+/Users/aigulaiupova/Desktop/Лекции С#/Example003/bin/Debug/net6.0/Example003.dll
+/Users/aigulaiupova/Desktop/Лекции С#/Example003/bin/Debug/net6.0/Example003.pdb
+/Users/aigulaiupova/Desktop/Лекции С#/Example003/obj/Debug/net6.0/Example003.csproj.AssemblyReference.cache
+/Users/aigulaiupova/Desktop/Лекции С#/Example003/obj/Debug/net6.0/Example003.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aigulaiupova/Desktop/Лекции С#/Example003/obj/Debug/net6.0/Example003.AssemblyInfoInputs.cache
+/Users/aigulaiupova/Desktop/Лекции С#/Example003/obj/Debug/net6.0/Example003.AssemblyInfo.cs
+/Users/aigulaiupova/Desktop/Лекции С#/Example003/obj/Debug/net6.0/Example003.csproj.CoreCompileInputs.cache
+/Users/aigulaiupova/Desktop/Лекции С#/Example003/obj/Debug/net6.0/Example003.dll
+/Users/aigulaiupova/Desktop/Лекции С#/Example003/obj/Debug/net6.0/refint/Example003.dll
+/Users/aigulaiupova/Desktop/Лекции С#/Example003/obj/Debug/net6.0/Example003.pdb
+/Users/aigulaiupova/Desktop/Лекции С#/Example003/obj/Debug/net6.0/Example003.genruntimeconfig.cache
+/Users/aigulaiupova/Desktop/Лекции С#/Example003/obj/Debug/net6.0/ref/Example003.dll
